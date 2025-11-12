@@ -23,12 +23,12 @@
 - 📚 I am currently studying at [Institut Tecnològic Barcelona](https://itb.cat/)
 
 - 🌱 Currently, I am studying a Higher Vocational Training program in **Web Application Development**
-
-- 📫 How to reach me **adanderios@gmail.com**
   
 - 💬 Ask me about anything, I love to answer!
-  
+
 - :thinking: I’m currently open for a new `job opportunity`.
+
+- 📫 How to write me **adanderios@gmail.com**
 
 <h2></h2>
 
