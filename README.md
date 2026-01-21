@@ -44,15 +44,15 @@
   </a>
   
   <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpmyadmin/phpmyadmin-original.svg" alt="phpmyadmin" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PhpMyAdmin_logo.svg" alt="phpmyadmin" width="40" height="40"/>
   </a>
   
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   </a>
   
-  <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/virtualbox/virtualbox-original.svg" alt="virtualbox" width="40" height="40"/>
+  <a href="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="virtualbox" width="40" height="40"/>
   </a>
   
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
