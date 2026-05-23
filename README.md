@@ -121,11 +121,7 @@
 </p>
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=21adannrioss&layout=compact&theme=gotham"/>
-</div>
-
-<h2></h2>
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=21adannrioss&layout=compact&theme=gotham&hide=html,css&langs_count=20&cache_seconds=0)
 
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
