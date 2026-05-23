@@ -23,14 +23,10 @@
 - 📚 I am currently studying at [Institut Tecnològic Barcelona](https://itb.cat/)
 
 - 🌱 Currently, I am studying a Higher Vocational Training program in **Web Application Development**
+
+- 🚀 Interested in full stack and DevOps
   
-- 💬 Ask me about anything, I love to answer!
-
-- :thinking: I’m currently open for a new `job opportunity`.
-
-- 📫 How to write me **adanderios@gmail.com**
-
-<h2></h2>
+- 📫 Contact: adanderios@gmail.com
 
 <!-- HERRAMIENTAS -->
 <h3 align="left">Tools:</h3>
@@ -59,10 +55,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 
-  <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
-  </a>
-
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   </a>
@@ -89,22 +81,6 @@
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.w3.org/XML/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" alt="xml" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="json" width="40" height="40"/>
   </a>
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
